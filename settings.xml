@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <format-version>3</format-version>
+  <general-settings>
+    <AskBeforeApplyingRule>false</AskBeforeApplyingRule>
+    <AskBeforeDeletingMail>false</AskBeforeDeletingMail>
+    <CustomerEmail2>true</CustomerEmail2>
+    <FirstExecution>false</FirstExecution>
+    <LastActivationKey>1158735c-ea39-40a8-9bf2-b1ee8efbadfa</LastActivationKey>
+    <NotifyLargeMessageOnSend>false</NotifyLargeMessageOnSend>
+  </general-settings>
+  <restrictions />
+  <signatures>
+    <signature name="Signature MYW" allow-edit="true" overwrite="false" targetMail="none">&lt;div class="gmail_signature" data-smartmail="gmail_signature"&gt;&lt;div dir="ltr"&gt;&lt;p style="font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 12px; margin-bottom: 10px;"&gt;&lt;span style="color: rgb(33, 33, 33); font-weight: bold;"&gt;VERRIER Alexandre&lt;/span&gt;&lt;span style="color: rgb(33, 33, 33);"&gt; / Prestataire de services informatiques / &lt;/span&gt;&lt;span style="color: rgb(33, 33, 33);"&gt;0617479591&lt;/span&gt;&lt;/p&gt;&lt;p style="font-family:Helvetica,Arial,sans-serif;font-size:10px;line-height:12px;color:rgb(33,33,33);margin-bottom:10px"&gt;&lt;img src="file://C:/Users/averrier/Pictures/unnamed.png" border="0" width="177" height="143" /&gt;
+&lt;/p&gt;&lt;p style="font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 12px; margin-bottom: 10px;"&gt;&lt;span style="font-weight: bold; color: rgb(33, 33, 33);"&gt;MakeYourWeb&lt;/span&gt; &lt;br /&gt;&lt;span style="color:rgb(33,33,33)"&gt;&lt;/span&gt;&lt;span style="color:rgb(33,33,33)"&gt;&lt;/span&gt;&lt;span style="color: rgb(33, 33, 33);"&gt;144 rue notre Dame&lt;/span&gt; &lt;br /&gt;&lt;span style="color: rgb(33, 33, 33);"&gt;33300 BORDEAUX&lt;/span&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</signature>
+    <signature name="Signature H&amp;A" allow-edit="true" overwrite="false" targetMail="none">&lt;div style="text-align: left;"&gt;&lt;b&gt;Alexandre VERRIER&lt;/b&gt;&lt;/div&gt;&lt;div style="text-align: left;"&gt;&lt;i&gt;Service Informatique&lt;/i&gt;&lt;/div&gt;&lt;div style="text-align: left;"&gt;&lt;i&gt;&lt;br /&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style="text-align: left;"&gt;&lt;img src="file://C:/Users/averrier/Pictures/Signature%20mail%20H&amp;amp;A.jpg" border="0" width="640" height="255" /&gt;
+&lt;/div&gt;</signature>
+  </signatures>
+  <quicktexts />
+  <templates />
+  <accounts>
+    <crypted>no</crypted>
+    <account>
+      <AccountName>alexandre.verrier@halocation.fr</AccountName>
+      <Account>
+        <PersonName>Alexandre VERRIER</PersonName>
+        <ProviderName>Gmail</ProviderName>
+        <LoginName>alexandre.verrier@halocation.fr</LoginName>
+        <IncludeInGlobalOperations>true</IncludeInGlobalOperations>
+        <UseAliasesFromSubaccounts>true</UseAliasesFromSubaccounts>
+        <UseSeparateFolderTree>false</UseSeparateFolderTree>
+        <Addresses>
+          <Address>alexandre.verrier@halocation.fr</Address>
+        </Addresses>
+        <SigningEncryptionPresets>
+          <SigningEncryptionPreset>
+            <Email>alexandre.verrier@halocation.fr</Email>
+            <SignMessages>false</SignMessages>
+            <EncryptMessages>false</EncryptMessages>
+            <IncludeCertificates>true</IncludeCertificates>
+          </SigningEncryptionPreset>
+        </SigningEncryptionPresets>
+        <Protocol xmlns="http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a">
+          <Type>XMPP</Type>
+          <Server>talk.google.com</Server>
+          <Port>5223</Port>
+          <SSL>on</SSL>
+          <DomainRequired>on</DomainRequired>
+          <ServerDomain>halocation.fr</ServerDomain>
+          <CredentialsMode>UseBindingAccount</CredentialsMode>
+          <Enabled xmlns="http://licensing.emclient.com/XSD/accounts">false</Enabled>
+        </Protocol>
+        <Protocol xmlns="http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a">
+          <Type>GDATA</Type>
+          <DomainRequired>on</DomainRequired>
+          <CredentialsMode>UseBindingAccount</CredentialsMode>
+          <Enabled xmlns="http://licensing.emclient.com/XSD/accounts">false</Enabled>
+        </Protocol>
+        <Protocol xmlns="http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a">
+          <Type>IMAP</Type>
+          <Server>imap.gmail.com</Server>
+          <Port>993</Port>
+          <Encryption>SSL</Encryption>
+          <DomainRequired>on</DomainRequired>
+          <CredentialsMode>UseBindingAccount</CredentialsMode>
+          <Enabled xmlns="http://licensing.emclient.com/XSD/accounts">true</Enabled>
+        </Protocol>
+        <Protocol xmlns="http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a">
+          <Type>SMTP</Type>
+          <Server>smtp.gmail.com</Server>
+          <Port>587</Port>
+          <Encryption>TLS</Encryption>
+          <DomainRequired>on</DomainRequired>
+          <CredentialsMode>UseBindingAccount</CredentialsMode>
+          <Enabled xmlns="http://licensing.emclient.com/XSD/accounts">true</Enabled>
+        </Protocol>
+      </Account>
+    </account>
+    <account>
+      <AccountName>verrier.alexandre33@gmail.com</AccountName>
+      <Account>
+        <PersonName>Alexandre VERRIER</PersonName>
+        <ProviderName>Gmail</ProviderName>
+        <LoginName>verrier.alexandre33@gmail.com</LoginName>
+        <IncludeInGlobalOperations>true</IncludeInGlobalOperations>
+        <UseAliasesFromSubaccounts>true</UseAliasesFromSubaccounts>
+        <UseSeparateFolderTree>false</UseSeparateFolderTree>
+        <Addresses>
+          <Address>verrier.alexandre33@gmail.com</Address>
+        </Addresses>
+        <SigningEncryptionPresets>
+          <SigningEncryptionPreset>
+            <Email>verrier.alexandre33@gmail.com</Email>
+            <SignMessages>false</SignMessages>
+            <EncryptMessages>false</EncryptMessages>
+            <IncludeCertificates>true</IncludeCertificates>
+          </SigningEncryptionPreset>
+        </SigningEncryptionPresets>
+        <Protocol xmlns="http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a">
+          <Type>XMPP</Type>
+          <Server>talk.google.com</Server>
+          <Port>5223</Port>
+          <SSL>on</SSL>
+          <DomainRequired>on</DomainRequired>
+          <ServerDomain>gmail.com</ServerDomain>
+          <CredentialsMode>UseBindingAccount</CredentialsMode>
+          <Enabled xmlns="http://licensing.emclient.com/XSD/accounts">false</Enabled>
+        </Protocol>
+        <Protocol xmlns="http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a">
+          <Type>GDATA</Type>
+          <DomainRequired>on</DomainRequired>
+          <CredentialsMode>UseBindingAccount</CredentialsMode>
+          <Enabled xmlns="http://licensing.emclient.com/XSD/accounts">false</Enabled>
+        </Protocol>
+        <Protocol xmlns="http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a">
+          <Type>IMAP</Type>
+          <Server>imap.gmail.com</Server>
+          <Port>993</Port>
+          <Encryption>SSL</Encryption>
+          <DomainRequired>on</DomainRequired>
+          <CredentialsMode>UseBindingAccount</CredentialsMode>
+          <Enabled xmlns="http://licensing.emclient.com/XSD/accounts">true</Enabled>
+        </Protocol>
+        <Protocol xmlns="http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a">
+          <Type>SMTP</Type>
+          <Server>smtp.gmail.com</Server>
+          <Port>587</Port>
+          <Encryption>TLS</Encryption>
+          <DomainRequired>on</DomainRequired>
+          <CredentialsMode>UseBindingAccount</CredentialsMode>
+          <Enabled xmlns="http://licensing.emclient.com/XSD/accounts">true</Enabled>
+        </Protocol>
+      </Account>
+    </account>
+  </accounts>
+</settings>
